@@ -35,10 +35,6 @@ h1.offfer_header{
     justify-content: center;
 }
 
-.nitimala{
-    margin: 0 !important;
-}
-
 .offers .btn > a{
     text-decoration: none;
     text-align: center;
@@ -84,6 +80,12 @@ iframe{
     .offers p{
         font-size: 16px;
         padding: 0 10px;    
+    }
+
+    .nitimala{
+        font-size: 16px !important;
+        margin: 0 !important;
+        padding: 0 !important;
     }
 
     .offers a{
